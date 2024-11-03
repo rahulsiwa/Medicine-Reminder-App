@@ -1,17 +1,19 @@
 "# Medicine-Reminder-App" 
 ## Screenshots
 
-### Welcome Screen
-![Welcome Screen](./Screenshots/welcome_screen.png)
+# App Screenshots
 
-### Add Pills Screen
-![Add Pills Screen](./Screenshots/add_pills_screen.png)
+Here are some screenshots of the app:
+
+### Welcome Screen
+![Welcome Screen](Screenshot/welcome_screen.png)
 
 ### Home Screen
-![Home Screen](./Screenshots/home_screen.png)
+![Home Screen](Screenshot/home_screen.png)
+![Home Screen 2](Screenshot/home_screen_2.png)
 
-### Home Screen 2
-![Home Screen 2](./Screenshots/home_screen_2.png)
+### Add Pills Screen
+![Add Pills Screen](Screenshot/add_pills_screen.png)
 
 ### Notification Screen
-![Notification Screen](./Screenshots/notify_screen.png)
+![Notification Screen](Screenshot/notify_screen.png)
